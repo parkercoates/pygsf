@@ -31,7 +31,7 @@ from datetime import datetime
 from datetime import timedelta
 from statistics import mean
 # import mmap
-from delivershared import log as log, makedirs
+# from delivershared import log as log, makedirs
 # for testing only...
 import numpy as np
 
