@@ -1,0 +1,10 @@
+[project]
+name = "pygsf"
+version = "0.1.0"
+description = "A native Python reader for generic sensor format (GSF) files"
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = [
+    "numpy>=1.20.0",
+    "pyproj>=3.2.0"
+]
